@@ -1,0 +1,28 @@
+<html lang="pt-BR">
+<head>
+  <style>
+    .centralizado { 
+      text-align:center;
+     }
+    body {
+    background-color: #f9e574;
+  }
+    .imagem-quadrada {
+      width: 500px;
+      height: 500px;
+      object-fit: cover;
+      display: block;
+      margin: 0 auto;
+    }
+    .cent-link {
+      display: block;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <p class="centralizado">Nicole de Souza Sá</p>
+  <img src="https://images2.alphacoders.com/941/941898.jpg" alt="win" class="imagem-quadrada" id="wind11">
+  <a href="https://sl.bing.net/jFz1zTGplng" class="cent-link">
+    Windows xp Background
+  </a>
